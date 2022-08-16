@@ -1,0 +1,11 @@
+info.app:
+  name: '@project.name@'
+  description: '@project.description@'
+  version: '@project.version@'
+
+logging:
+  level:
+    root: INFO
+
+springdoc:
+  override-with-generic-response: true
